@@ -23,7 +23,7 @@ namespace AzureWorkshop
         private AlertsHubManager hub;
 
         const string ServiceBusConnectionString =
-            @"Endpoint=sb://itcampgabweather.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=KmTuHKIqgqu+gEuyNOjtWV1nJ18AFhC7OdSUs2xbGBo=";
+            @"Endpoint=sb://__SB_ENDPOINT__;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=__SB_SAS_KEY__";
         const string TopicName = "livealert";
         const string SubscriptionName = "{0}live";
         private ISubscriptionClient subscriptionClient;

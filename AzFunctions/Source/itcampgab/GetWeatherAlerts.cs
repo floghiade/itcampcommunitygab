@@ -14,11 +14,11 @@ namespace itcampgab
     public static class GetWeatherAlerts
     {
         const string RedisCacheConnectionString = 
-            @"itecampweatheralertcache.redis.cache.windows.net:6380,password=SOoBczU3jvACinqKk3/Hi8grBdC3fdHDeUffr6FPKD0=,ssl=True,abortConnect=False";
+            @"__REDIS_CONNECTION_STRING,password=__REDIS_PW__,ssl=True,abortConnect=False";
         const string RedisCacheDBName = "Weather";
 
         const string SeviceBusConnectionString =
-            @"Endpoint=sb://itcampgabweather.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=KmTuHKIqgqu+gEuyNOjtWV1nJ18AFhC7OdSUs2xbGBo=";
+            @"Endpoint=sb://__SB_ENDPOINT__;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=__SB_SAS_KEY__";
         const string TopicName = "livealert";
 
         [FunctionName("GetWeatherAlerts")]
@@ -37,7 +37,7 @@ namespace itcampgab
         {
             using (var client = new HttpClient(new HttpClientHandler()))
             {
-                client.BaseAddress = new Uri(@"https://itcampgab.azurewebsites.net/");
+                client.BaseAddress = new Uri(@"__FUNCTION_URL__");
                 HttpResponseMessage response = client.GetAsync(@"api/GenerateWeatherAlert").Result;
                 response.EnsureSuccessStatusCode();
                 string result = response.Content.ReadAsStringAsync().Result;
@@ -54,14 +54,6 @@ namespace itcampgab
             message.Properties.Add("countrycode", weatherAlert.CountryCode);
             topicClient.Send(message);
 
-            //TopicClient topicClient = TopicClient.CreateFromConnectionString(SeviceBusConnectionString, TopicName);
-            //var jsonSerializar = new DataContractJsonSerializer(typeof(WeatherAlert), new DataContractJsonSerializerSettings()
-            //{
-            //    DateTimeFormat = new DateTimeFormat("yyyy-MM-dd'T'HH:mm:ssK"),
-            //});
-            //BrokeredMessage message = new BrokeredMessage(weatherAlert, jsonSerializar);
-            //message.Properties.Add("countrycode", weatherAlert.CountryCode);
-            //topicClient.Send(message);
         }
 
         private static void AddToCache(WeatherAlert weatherAlert)

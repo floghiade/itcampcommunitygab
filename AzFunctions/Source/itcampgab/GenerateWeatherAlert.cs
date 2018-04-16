@@ -13,9 +13,6 @@ namespace itcampgab
 {
     public static class GenerateWeatherAlert
     {
-        /// <example>
-        /// https://itcampgab.azurewebsites.net/api/GenerateWeatherAlert
-        /// </example>
         [FunctionName("GenerateWeatherAlert")]
         public static async Task<HttpResponseMessage> Run([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post", Route = null)]HttpRequestMessage req, TraceWriter log)
         {

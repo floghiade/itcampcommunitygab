@@ -12,7 +12,7 @@ namespace AzureWorkshop
     public class RedisDb
     {
         const string RedisCacheConnectionString =
-            @"itecampweatheralertcache.redis.cache.windows.net:6380,password=SOoBczU3jvACinqKk3/Hi8grBdC3fdHDeUffr6FPKD0=,ssl=True,abortConnect=False";
+           @"__REDIS_CONNECTION_STRING,password=__REDIS_PW__,ssl=True,abortConnect=False";
         const string RedisCacheDBName = "Weather";
 
         public IEnumerable<WeatherAlert> GetFromCache(string countryCode)
