@@ -1,0 +1,12 @@
+C:\Users\rvunvulea\Downloads\ITCamp.Gab.Core\bin\Debug\ITCamp.Gab.Core.dll
+C:\Users\rvunvulea\Downloads\ITCamp.Gab.Core\bin\Debug\ITCamp.Gab.Core.pdb
+C:\Users\rvunvulea\Downloads\ITCamp.Gab.Core\obj\Debug\ITCamp.Gab.Core.csprojResolveAssemblyReference.cache
+C:\Users\rvunvulea\Downloads\ITCamp.Gab.Core\obj\Debug\ITCamp.Gab.Core.csproj.CoreCompileInputs.cache
+C:\Users\rvunvulea\Downloads\ITCamp.Gab.Core\obj\Debug\ITCamp.Gab.Core.dll
+C:\Users\rvunvulea\Downloads\ITCamp.Gab.Core\obj\Debug\ITCamp.Gab.Core.pdb
+D:\Work_OneDrive\OneDrive - Avaelgo\Personal\GAB2018\Source\ITCamp.Gab.Core\bin\Debug\ITCamp.Gab.Core.dll
+D:\Work_OneDrive\OneDrive - Avaelgo\Personal\GAB2018\Source\ITCamp.Gab.Core\bin\Debug\ITCamp.Gab.Core.pdb
+D:\Work_OneDrive\OneDrive - Avaelgo\Personal\GAB2018\Source\ITCamp.Gab.Core\obj\Debug\ITCamp.Gab.Core.csprojResolveAssemblyReference.cache
+D:\Work_OneDrive\OneDrive - Avaelgo\Personal\GAB2018\Source\ITCamp.Gab.Core\obj\Debug\ITCamp.Gab.Core.csproj.CoreCompileInputs.cache
+D:\Work_OneDrive\OneDrive - Avaelgo\Personal\GAB2018\Source\ITCamp.Gab.Core\obj\Debug\ITCamp.Gab.Core.dll
+D:\Work_OneDrive\OneDrive - Avaelgo\Personal\GAB2018\Source\ITCamp.Gab.Core\obj\Debug\ITCamp.Gab.Core.pdb

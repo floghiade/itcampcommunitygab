@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\IT.Gab.Core\bin\Debug\netstandard2.0\IT.Gab.Core.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\IT.Gab.Core\bin\Debug\netstandard2.0\IT.Gab.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\IT.Gab.Core\bin\Debug\netstandard2.0\IT.Gab.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\IT.Gab.Core\obj\Debug\netstandard2.0\IT.Gab.Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\IT.Gab.Core\obj\Debug\netstandard2.0\IT.Gab.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\IT.Gab.Core\obj\Debug\netstandard2.0\IT.Gab.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\IT.Gab.Core\obj\Debug\netstandard2.0\IT.Gab.Core.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\IT.Gab.Core\obj\Debug\netstandard2.0\IT.Gab.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\IT.Gab.Core\obj\Debug\netstandard2.0\IT.Gab.Core.pdb

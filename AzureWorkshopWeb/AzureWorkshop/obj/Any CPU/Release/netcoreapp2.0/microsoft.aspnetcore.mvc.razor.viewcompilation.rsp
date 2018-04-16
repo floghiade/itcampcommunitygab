@@ -1,0 +1,10 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=AzureWorkshop
+--content-root=C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop
+--file=C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\Views\Home\Index.cshtml
+--file=C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\Views\Shared\Error.cshtml
+--file=C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\Views\Shared\_Layout.cshtml
+--file=C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\Views\_ViewImports.cshtml
+--file=C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\Views\_ViewStart.cshtml

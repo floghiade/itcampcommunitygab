@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\bin\Debug\netcoreapp2.0\TestWorkshop.deps.json
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\bin\Debug\netcoreapp2.0\TestWorkshop.runtimeconfig.json
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\bin\Debug\netcoreapp2.0\TestWorkshop.runtimeconfig.dev.json
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\bin\Debug\netcoreapp2.0\TestWorkshop.dll
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Debug\netcoreapp2.0\TestWorkshop.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Debug\netcoreapp2.0\TestWorkshop.csproj.CoreCompileInputs.cache
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Debug\netcoreapp2.0\TestWorkshop.AssemblyInfoInputs.cache
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Debug\netcoreapp2.0\TestWorkshop.AssemblyInfo.cs
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\bin\Debug\netcoreapp2.0\TestWorkshop.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Debug\netcoreapp2.0\TestWorkshop.dll
+c:\users\administrator\documents\visual studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Debug\netcoreapp2.0\TestWorkshop.pdb

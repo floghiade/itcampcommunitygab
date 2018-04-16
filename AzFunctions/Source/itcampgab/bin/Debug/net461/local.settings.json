@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "9a202b4d-1045-4df9-a885-a6755c4b988d",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=itcampgab8053;AccountKey=Ww/AuOH2Dl2e5sYueUrOLflAZBC+J6AqFylfgA5xpyCXIdZIQLxu1Kl58tTJBXSGqaCH5Lo+lMn+mMNUnlQxXQ==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=itcampgab8053;AccountKey=Ww/AuOH2Dl2e5sYueUrOLflAZBC+J6AqFylfgA5xpyCXIdZIQLxu1Kl58tTJBXSGqaCH5Lo+lMn+mMNUnlQxXQ==",
+    "WEBSITE_CONTENTSHARE": "itcampgab-c3697b31",
+    "WEBSITE_SITE_NAME": "itcampgab",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=itcampgab8053;AccountKey=Ww/AuOH2Dl2e5sYueUrOLflAZBC+J6AqFylfgA5xpyCXIdZIQLxu1Kl58tTJBXSGqaCH5Lo+lMn+mMNUnlQxXQ=="
+  }
+}

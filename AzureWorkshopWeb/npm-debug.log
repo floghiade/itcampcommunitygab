@@ -1,0 +1,78 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   '@aspnet/signalr' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.32
+4 verbose node symlink C:\Program Files\nodejs\\node.exe
+5 verbose cache add [ '@aspnet/signalr', null ]
+6 verbose cache add name=undefined spec="@aspnet/signalr" args=["@aspnet/signalr",null]
+7 verbose parsed url { protocol: null,
+7 verbose parsed url   slashes: null,
+7 verbose parsed url   auth: null,
+7 verbose parsed url   host: null,
+7 verbose parsed url   port: null,
+7 verbose parsed url   hostname: null,
+7 verbose parsed url   hash: null,
+7 verbose parsed url   search: null,
+7 verbose parsed url   query: null,
+7 verbose parsed url   pathname: '@aspnet/signalr',
+7 verbose parsed url   path: '@aspnet/signalr',
+7 verbose parsed url   href: '@aspnet/signalr' }
+8 verbose cache add name="" spec="aspnet/signalr" args=["","aspnet/signalr"]
+9 verbose parsed url { protocol: null,
+9 verbose parsed url   slashes: null,
+9 verbose parsed url   auth: null,
+9 verbose parsed url   host: null,
+9 verbose parsed url   port: null,
+9 verbose parsed url   hostname: null,
+9 verbose parsed url   hash: null,
+9 verbose parsed url   search: null,
+9 verbose parsed url   query: null,
+9 verbose parsed url   pathname: 'aspnet/signalr',
+9 verbose parsed url   path: 'aspnet/signalr',
+9 verbose parsed url   href: 'aspnet/signalr' }
+10 silly lockFile f7988ffa-aspnet-signalr aspnet/signalr
+11 verbose lock aspnet/signalr C:\Users\Administrator\AppData\Roaming\npm-cache\f7988ffa-aspnet-signalr.lock
+12 info maybeGithub Attempting aspnet/signalr from git://github.com/aspnet/signalr
+13 silly lockFile 6b2bec87-git-github-com-aspnet-signalr git://github.com/aspnet/signalr
+14 verbose lock git://github.com/aspnet/signalr C:\Users\Administrator\AppData\Roaming\npm-cache\6b2bec87-git-github-com-aspnet-signalr.lock
+15 verbose addRemoteGit [ 'git://github.com/aspnet/signalr', 'master' ]
+16 verbose git remote.origin.url git://github.com/aspnet/signalr
+17 verbose git fetch -a origin (git://github.com/aspnet/signalr)
+18 silly verifyOwnership skipping for windows
+19 error Failed resolving git HEAD (git://github.com/aspnet/signalr) fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+19 error Failed resolving git HEAD (git://github.com/aspnet/signalr) Use '--' to separate paths from revisions, like this:
+19 error Failed resolving git HEAD (git://github.com/aspnet/signalr) 'git <command> [<revision>...] -- [<file>...]'
+20 silly lockFile 6b2bec87-git-github-com-aspnet-signalr git://github.com/aspnet/signalr
+21 silly lockFile 6b2bec87-git-github-com-aspnet-signalr git://github.com/aspnet/signalr
+22 info maybeGithub Attempting aspnet/signalr from git+ssh://git@github.com:aspnet/signalr
+23 silly lockFile a6d0ae8a-git-github-com-aspnet-signalr git@github.com:aspnet/signalr
+24 verbose lock git@github.com:aspnet/signalr C:\Users\Administrator\AppData\Roaming\npm-cache\a6d0ae8a-git-github-com-aspnet-signalr.lock
+25 verbose addRemoteGit [ 'git@github.com:aspnet/signalr', 'master' ]
+26 warn `git config --get remote.origin.url` returned wrong result (git@github.com:aspnet/signalr)
+27 error git clone git@github.com:aspnet/signalr Cloning into bare repository 'C:\Users\Administrator\AppData\Roaming\npm-cache\_git-remotes\git-github-com-aspnet-signalr-a6d0ae8a'...
+27 error git clone git@github.com:aspnet/signalr Host key verification failed.
+27 error git clone git@github.com:aspnet/signalr fatal: Could not read from remote repository.
+27 error git clone git@github.com:aspnet/signalr
+27 error git clone git@github.com:aspnet/signalr Please make sure you have the correct access rights
+27 error git clone git@github.com:aspnet/signalr and the repository exists.
+28 silly lockFile a6d0ae8a-git-github-com-aspnet-signalr git@github.com:aspnet/signalr
+29 silly lockFile a6d0ae8a-git-github-com-aspnet-signalr git@github.com:aspnet/signalr
+30 silly lockFile f7988ffa-aspnet-signalr aspnet/signalr
+31 silly lockFile f7988ffa-aspnet-signalr aspnet/signalr
+32 error addLocal Could not install aspnet/signalr
+33 error Error: ENOENT, stat 'C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\aspnet\signalr'
+34 error If you need help, you may report this *entire* log,
+34 error including the npm and node versions, at:
+34 error     <http://github.com/npm/npm/issues>
+35 error System Windows_NT 6.2.9200
+36 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "@aspnet/signalr"
+37 error cwd C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop
+38 error node -v v0.10.32
+39 error npm -v 1.4.28
+40 error path C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\aspnet\signalr
+41 error code ENOENT
+42 error errno 34
+43 verbose exit [ 34, true ]

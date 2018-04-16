@@ -1,0 +1,13 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\bin\Debug\netcoreapp2.0\AzureWorkshop.deps.json
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\bin\Debug\netcoreapp2.0\AzureWorkshop.runtimeconfig.json
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\bin\Debug\netcoreapp2.0\AzureWorkshop.runtimeconfig.dev.json
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\bin\Debug\netcoreapp2.0\AzureWorkshop.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\obj\Debug\netcoreapp2.0\AzureWorkshop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\obj\Debug\netcoreapp2.0\AzureWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\obj\Debug\netcoreapp2.0\AzureWorkshop.AssemblyInfoInputs.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\obj\Debug\netcoreapp2.0\AzureWorkshop.AssemblyInfo.cs
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\bin\Debug\netcoreapp2.0\AzureWorkshop.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\obj\Debug\netcoreapp2.0\AzureWorkshop.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\TestWorkshop\AzureWorkshop\obj\Debug\netcoreapp2.0\AzureWorkshop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\AzureWorkshop\bin\Debug\netcoreapp2.0\IT.Gab.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\AzureWorkshop\bin\Debug\netcoreapp2.0\IT.Gab.Core.pdb

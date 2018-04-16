@@ -1,0 +1,54 @@
+﻿@model IEnumerable<AlertModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-offset-2 col-md-8">
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h2 class="display-4">@Html.DisplayName((string)ViewData["Country"]) Weather Alerts</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-offset-2 col-md-8" id="feed">
+        @foreach (var alert in Model)
+        {
+            <div class="panel panel-default">
+                <div class="panel-heading">@Html.DisplayName(alert.Title)</div>
+                <div class="panel-body">
+                    @Html.DisplayName(alert.Message)
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        (function () {
+            // your page initialization code here
+            // the DOM will be available here
+            //signalR.TransportType[getParameterByName('transport')] ||
+            let transportType = signalR.TransportType.WebSockets;
+            let logger = new signalR.ConsoleLogger(signalR.LogLevel.Information);
+            let connection = new signalR.HubConnection('/alerts', { transport: transportType, logger: logger });
+
+
+            connection.on('SendAlert', (message) => {
+                document.getElementById('feed').insertAdjacentHTML(
+                    "afterBegin", '<div class="panel panel-default">' +
+                    '<div class="panel-heading">'+message.title+'</div>' +
+                    '<div class="panel-body">' +
+                    message.message +
+                    '</div></div>');
+            });
+            connection.start().catch(err => appendLine(err, 'red'));
+        })();
+
+    </script>
+}

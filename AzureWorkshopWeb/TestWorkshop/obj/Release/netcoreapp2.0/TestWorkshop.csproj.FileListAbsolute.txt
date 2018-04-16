@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\bin\Release\netcoreapp2.0\TestWorkshop.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\bin\Release\netcoreapp2.0\TestWorkshop.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\bin\Release\netcoreapp2.0\TestWorkshop.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\bin\Release\netcoreapp2.0\TestWorkshop.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\bin\Release\netcoreapp2.0\TestWorkshop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Release\netcoreapp2.0\TestWorkshop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Release\netcoreapp2.0\TestWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Release\netcoreapp2.0\TestWorkshop.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Release\netcoreapp2.0\TestWorkshop.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Release\netcoreapp2.0\TestWorkshop.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestWorkshop\TestWorkshop\obj\Release\netcoreapp2.0\TestWorkshop.pdb
